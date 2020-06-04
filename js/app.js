@@ -140,9 +140,9 @@ function makeQuestion(latf, topics) {
 function renderQuestion(question) {
   let qtext = qnumber + ". What do " + lanm[question['places'][0]] + ", " + lanm[question['places'][1]] + " and " + lanm[question['places'][2]] + " have in common?";
   let anskeys = Object.keys(question.answers);
-  let ans1 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[0] + '\')">' + qnames[anskeys[0]] + '?</button></p>';
-  let ans2 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[1] + '\')">' + qnames[anskeys[1]] + '?</button></p>';
-  let ans3 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[2] + '\')">' + qnames[anskeys[2]] + '?</button></p>';
+  let ans1 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[0] + '\')">' + qnames[anskeys[0]] + '</button></p>';
+  let ans2 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[1] + '\')">' + qnames[anskeys[1]] + '</button></p>';
+  let ans3 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[2] + '\')">' + qnames[anskeys[2]] + '</button></p>';
   qdiv.innerHTML = qtext;
   adiv.innerHTML = ans1 + ans2 + ans3;
 }
