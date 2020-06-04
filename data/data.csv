@@ -1,0 +1,349 @@
+code	name	badHealthHi	badHealthLo	goodHeathHi	goodHeathLo	ownershipHi	ownershipLo	rentingHi	rentingLo	youngHi	youngLo	oldHi	oldLo	christianHi	christianLo	aethiestHo	aethiestLo	asianHi	asianLo	blackHi	blackLo	whiteHi	whiteLo
+synE06000001	Hartlepool	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false
+synE06000002	Middlesbrough	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000003	Redcar and Cleveland	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	true	false
+synE06000004	Stockton-on-Tees	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000005	Darlington	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000006	Halton	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	true	false	false	true	false
+synE06000007	Warrington	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE06000008	Blackburn with Darwen	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	true	false	false	false	false	false
+synE06000009	Blackpool	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000010	Kingston upon Hull	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE06000011	East Riding of Yorkshire	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000012	North East Lincolnshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000013	North Lincolnshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000014	York	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000015	Derby	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000016	Leicester	false	false	false	false	false	false	false	false	true	false	false	true	false	true	false	false	true	false	false	false	false	true
+synE06000017	Rutland	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000018	Nottingham	false	false	false	false	false	false	false	false	false	false	false	true	false	true	true	false	false	false	false	false	false	false
+synE06000019	Herefordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000020	Telford and Wrekin	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000021	Stoke-on-Trent	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000022	Bath and North East Somerset	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE06000023	Bristol	false	true	true	false	false	true	false	false	false	false	false	false	false	true	true	false	false	false	false	false	false	false
+synE06000024	North Somerset	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000025	South Gloucestershire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000026	Plymouth	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE06000027	Torbay	false	false	false	false	true	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE06000028	Bournemouth	false	false	false	false	false	false	false	true	false	true	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000029	Poole	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000030	Swindon	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000031	Peterborough	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000032	Luton	false	true	false	false	false	false	false	false	true	false	false	false	false	true	false	false	true	false	true	false	false	true
+synE06000033	Southend-on-Sea	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000034	Thurrock	false	true	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000035	Medway	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000036	Bracknell Forest	false	true	true	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false
+synE06000037	West Berkshire	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000038	Reading	false	true	true	false	false	false	false	false	false	false	false	true	false	true	false	false	false	false	false	false	false	false
+synE06000039	Slough	false	true	true	false	false	false	false	true	true	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE06000040	Windsor and Maidenhead	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000041	Wokingham	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000042	Milton Keynes	false	true	true	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false
+synE06000043	Brighton and Hove	false	true	true	false	false	false	false	false	false	true	false	false	false	true	true	false	false	false	false	false	false	false
+synE06000044	Portsmouth	false	true	true	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE06000045	Southampton	false	true	true	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE06000046	Isle of Wight	false	false	false	false	true	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE06000047	County Durham	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	false	false
+synE06000049	Cheshire East	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000050	Cheshire West and Chester	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE06000051	Shropshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000052	Cornwall	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false
+synE06000053	Isles of Scilly	false	false	false	false	false	false	false	true	false	true	true	false	false	false	true	false	false	false	false	true	false	false
+synE06000054	Wiltshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000055	Bedford	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000056	Central Bedfordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE06000057	Northumberland	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false
+synE07000004	Aylesbury Vale	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000005	Chiltern	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000006	South Bucks	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000007	Wycombe	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000008	Cambridge	false	true	true	false	false	false	false	false	false	true	false	true	false	true	true	false	false	false	false	false	false	false
+synE07000009	East Cambridgeshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000010	Fenland	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000011	Huntingdonshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000012	South Cambridgeshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000026	Allerdale	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	true	true	false
+synE07000027	Barrow-in-Furness	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	false	false
+synE07000028	Carlisle	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000029	Copeland	true	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE07000030	Eden	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	false	false
+synE07000031	South Lakeland	true	false	false	true	true	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000032	Amber Valley	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false
+synE07000033	Bolsover	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000034	Chesterfield	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000035	Derbyshire Dales	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000036	Erewash	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000037	High Peak	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false
+synE07000038	North East Derbyshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false
+synE07000039	South Derbyshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000040	East Devon	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000041	Exeter	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000042	Mid Devon	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	true	false	true	true	false
+synE07000043	North Devon	false	false	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	true	false	true	true	false
+synE07000044	South Hams	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000045	Teignbridge	false	false	false	false	true	false	false	true	false	false	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000046	Torridge	false	false	false	false	true	false	false	true	false	false	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000047	West Devon	false	false	false	false	true	false	false	true	false	false	true	false	false	false	false	false	false	true	false	false	true	false
+synE07000048	Christchurch	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000049	East Dorset	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000050	North Dorset	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false
+synE07000051	Purbeck	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000052	West Dorset	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000053	Weymouth and Portland	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000061	Eastbourne	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000062	Hastings	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000063	Lewes	false	false	false	false	false	false	false	false	false	false	true	false	false	false	true	false	false	false	false	false	false	false
+synE07000064	Rother	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000065	Wealden	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000066	Basildon	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000067	Braintree	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000068	Brentwood	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000069	Castle Point	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false
+synE07000070	Chelmsford	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000071	Colchester	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000072	Epping Forest	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000073	Harlow	false	false	false	false	false	false	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000074	Maldon	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000075	Rochford	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000076	Tendring	false	false	false	false	true	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000077	Uttlesford	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000078	Cheltenham	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000079	Cotswold	false	false	false	false	true	false	false	true	false	false	true	false	false	false	false	false	false	true	false	false	false	false
+synE07000080	Forest of Dean	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	true	false	true	true	false
+synE07000081	Gloucester	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000082	Stroud	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	true	false	true	true	false
+synE07000083	Tewkesbury	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000084	Basingstoke and Deane	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000085	East Hampshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000086	Eastleigh	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000087	Fareham	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000088	Gosport	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000089	Hart	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000090	Havant	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000091	New Forest	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000092	Rushmoor	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000093	Test Valley	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000094	Winchester	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000095	Broxbourne	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000096	Dacorum	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000098	Hertsmere	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	false	false	false	false	false	false
+synE07000099	North Hertfordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000102	Three Rivers	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000103	Watford	false	true	true	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	false	false	false
+synE07000105	Ashford	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000106	Canterbury	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000107	Dartford	false	true	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000108	Dover	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000109	Gravesham	false	true	true	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000110	Maidstone	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000111	Sevenoaks	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000112	Shepway	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000113	Swale	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000114	Thanet	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000115	Tonbridge and Malling	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000116	Tunbridge Wells	false	true	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000117	Burnley	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000118	Chorley	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE07000119	Fylde	true	false	false	true	true	false	false	false	false	true	true	false	true	false	false	true	false	false	false	false	false	false
+synE07000120	Hyndburn	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	false	false	false	false	false	false
+synE07000121	Lancaster	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000122	Pendle	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false
+synE07000123	Preston	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false	false	false	false	false
+synE07000124	Ribble Valley	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE07000125	Rossendale	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000126	South Ribble	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE07000127	West Lancashire	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	true	false	false
+synE07000128	Wyre	true	false	false	true	false	false	false	false	false	true	true	false	true	false	false	true	false	false	false	true	false	false
+synE07000129	Blaby	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000130	Charnwood	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000131	Harborough	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000132	Hinckley and Bosworth	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000133	Melton	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false
+synE07000134	North West Leicestershire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000135	Oadby and Wigston	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000136	Boston	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000137	East Lindsey	false	false	false	true	true	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000138	Lincoln	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000139	North Kesteven	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	false	false
+synE07000140	South Holland	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE07000141	South Kesteven	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000142	West Lindsey	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	true	false
+synE07000143	Breckland	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000144	Broadland	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000145	Great Yarmouth	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000146	King's Lynn and West Norfolk	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000147	North Norfolk	false	false	false	false	true	false	false	false	false	true	true	false	false	false	false	false	false	true	false	false	false	false
+synE07000148	Norwich	false	false	false	false	false	false	false	false	false	true	false	false	false	true	true	false	false	false	false	false	false	false
+synE07000149	South Norfolk	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000150	Corby	false	false	false	false	false	false	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000151	Daventry	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000152	East Northamptonshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000153	Kettering	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000154	Northampton	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000155	South Northamptonshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000156	Wellingborough	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000163	Craven	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000164	Hambleton	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	false	false
+synE07000165	Harrogate	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000166	Richmondshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000167	Ryedale	false	false	false	true	false	false	false	false	false	false	true	false	true	false	false	false	false	false	false	false	false	false
+synE07000168	Scarborough	false	false	false	true	false	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000169	Selby	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE07000170	Ashfield	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000171	Bassetlaw	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE07000172	Broxtowe	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000173	Gedling	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000174	Mansfield	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000175	Newark and Sherwood	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000176	Rushcliffe	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000177	Cherwell	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000178	Oxford	false	true	true	false	false	false	false	false	false	true	false	true	false	true	true	false	false	false	false	false	false	false
+synE07000179	South Oxfordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000180	Vale of White Horse	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000181	West Oxfordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000187	Mendip	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000188	Sedgemoor	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000189	South Somerset	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	true	false	false	false	false
+synE07000190	Taunton Deane	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000191	West Somerset	false	false	false	true	true	false	false	true	false	true	true	false	false	false	false	false	false	true	false	true	true	false
+synE07000192	Cannock Chase	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000193	East Staffordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000194	Lichfield	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000195	Newcastle-under-Lyme	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000196	South Staffordshire	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	true	false	false	false	false	false	false
+synE07000197	Stafford	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000198	Staffordshire Moorlands	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE07000199	Tamworth	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000200	Babergh	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000201	Forest Heath	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000202	Ipswich	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE07000203	Mid Suffolk	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000204	St Edmundsbury	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000205	Suffolk Coastal	false	false	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000206	Waveney	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000207	Elmbridge	false	true	true	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000208	Epsom and Ewell	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000209	Guildford	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000210	Mole Valley	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000211	Reigate and Banstead	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000212	Runnymede	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000213	Spelthorne	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000214	Surrey Heath	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000215	Tandridge	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000216	Waverley	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000217	Woking	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000218	North Warwickshire	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE07000219	Nuneaton and Bedworth	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000220	Rugby	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000221	Stratford-on-Avon	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000222	Warwick	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000223	Adur	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000224	Arun	false	false	false	false	true	false	false	true	false	true	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000225	Chichester	false	false	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000226	Crawley	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000227	Horsham	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000228	Mid Sussex	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000229	Worthing	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000234	Bromsgrove	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000235	Malvern Hills	false	false	false	true	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false
+synE07000236	Redditch	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000237	Worcester	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000238	Wychavon	false	false	false	true	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE07000239	Wyre Forest	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000240	St Albans	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000241	Welwyn Hatfield	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000242	East Hertfordshire	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE07000243	Stevenage	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synE08000001	Bolton	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false
+synE08000002	Bury	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false
+synE08000003	Manchester	false	false	false	false	false	true	false	false	false	false	false	true	false	true	false	false	true	false	false	false	false	true
+synE08000004	Oldham	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	true	false	false	false	false	false
+synE08000005	Rochdale	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	false	false	false	false	false	false
+synE08000006	Salford	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000007	Stockport	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000008	Tameside	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000009	Trafford	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000010	Wigan	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE08000011	Knowsley	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE08000012	Liverpool	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE08000013	St. Helens	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE08000014	Sefton	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	true	false	false	false	false	false	false
+synE08000015	Wirral	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE08000016	Barnsley	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000017	Doncaster	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000018	Rotherham	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000019	Sheffield	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000021	Newcastle upon Tyne	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000022	North Tyneside	true	false	false	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000023	South Tyneside	true	false	false	true	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE08000024	Sunderland	false	false	false	true	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false
+synE08000025	Birmingham	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	true	false	true	false	false	true
+synE08000026	Coventry	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	true	false	false	false	false	false
+synE08000027	Dudley	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000028	Sandwell	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	true	true	false	false	false	false	true
+synE08000029	Solihull	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000030	Walsall	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000031	Wolverhampton	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	true
+synE08000032	Bradford	false	false	false	false	false	false	false	false	true	false	false	false	false	true	false	false	true	false	false	false	false	true
+synE08000033	Calderdale	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000034	Kirklees	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false
+synE08000035	Leeds	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000036	Wakefield	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE08000037	Gateshead	true	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE09000001	City of London	false	false	false	false	false	true	false	false	false	true	false	false	false	true	false	false	false	false	true	false	false	true
+synE09000002	Barking and Dagenham	false	false	true	false	false	true	true	false	true	false	false	true	false	false	false	true	true	false	true	false	false	true
+synE09000003	Barnet	false	false	false	false	false	true	true	false	true	false	false	false	false	true	false	true	true	false	true	false	false	true
+synE09000004	Bexley	false	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE09000005	Brent	false	false	false	false	false	true	true	false	false	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE09000006	Bromley	false	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false
+synE09000007	Camden	false	false	false	false	false	true	true	false	false	true	false	true	false	true	false	false	true	false	true	false	false	true
+synE09000008	Croydon	false	false	false	false	false	true	true	false	true	false	false	true	false	false	false	false	true	false	true	false	false	true
+synE09000009	Ealing	false	false	false	false	false	true	true	false	false	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE09000010	Enfield	false	false	false	false	false	true	true	false	true	false	false	false	false	false	false	true	true	false	true	false	false	true
+synE09000011	Greenwich	false	false	true	false	false	true	true	false	true	false	false	true	false	false	false	false	false	false	true	false	false	true
+synE09000012	Hackney	false	false	true	false	false	true	true	false	false	false	false	true	false	true	false	false	true	false	true	false	false	true
+synE09000013	Hammersmith and Fulham	false	false	true	false	false	true	true	false	false	true	false	true	false	false	false	false	false	false	true	false	false	true
+synE09000014	Haringey	false	false	true	false	false	true	true	false	false	false	false	true	false	true	false	false	true	false	true	false	false	true
+synE09000015	Harrow	false	false	false	false	false	true	true	false	false	false	false	false	false	true	false	true	true	false	true	false	false	true
+synE09000016	Havering	false	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synE09000017	Hillingdon	false	false	false	false	false	true	true	false	true	false	false	true	false	false	false	true	true	false	true	false	false	true
+synE09000018	Hounslow	false	false	false	false	false	true	true	false	false	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE09000019	Islington	false	false	true	false	false	true	true	false	false	true	false	true	false	true	false	false	false	false	true	false	false	true
+synE09000020	Kensington and Chelsea	false	false	false	false	false	true	true	false	false	true	false	true	false	false	false	false	false	false	true	false	false	true
+synE09000021	Kingston upon Thames	false	false	false	false	false	true	true	false	false	false	false	true	false	false	false	false	false	false	true	false	false	false
+synE09000022	Lambeth	false	false	true	false	false	true	true	false	false	false	false	true	false	true	false	false	true	false	true	false	false	true
+synE09000023	Lewisham	false	false	true	false	false	true	true	false	false	false	false	true	false	true	false	false	true	false	true	false	false	true
+synE09000024	Merton	false	false	false	false	false	true	true	false	false	false	false	true	false	false	false	false	false	false	true	false	false	true
+synE09000025	Newham	false	false	true	false	false	true	true	false	true	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE09000026	Redbridge	false	false	false	false	false	true	true	false	true	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE09000027	Richmond upon Thames	false	false	false	false	false	true	true	false	false	false	false	true	false	false	false	false	false	false	true	false	false	false
+synE09000028	Southwark	false	false	true	false	false	true	true	false	false	false	false	true	false	true	false	false	false	false	true	false	false	true
+synE09000029	Sutton	false	false	false	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false
+synE09000030	Tower Hamlets	false	false	true	false	false	true	true	false	false	false	false	true	false	true	false	false	true	false	true	false	false	true
+synE09000031	Waltham Forest	false	false	false	false	false	true	true	false	false	false	false	true	false	true	false	true	true	false	true	false	false	true
+synE09000032	Wandsworth	false	false	true	false	false	true	true	false	false	true	false	true	false	false	false	false	false	false	true	false	false	true
+synE09000033	Westminster	false	false	false	false	false	true	true	false	false	true	false	true	false	true	false	false	true	false	true	false	false	true
+synW06000001	Isle of Anglesey	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	true	false	true	true	false
+synW06000002	Gwynedd	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synW06000003	Conwy	true	false	false	true	true	false	false	false	false	true	true	false	false	false	false	false	false	false	false	true	false	false
+synW06000004	Denbighshire	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synW06000005	Flintshire	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false
+synW06000006	Wrexham	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synW06000008	Ceredigion	true	false	false	true	false	false	false	false	false	true	false	false	false	false	false	false	false	false	false	false	false	false
+synW06000009	Pembrokeshire	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false
+synW06000010	Carmarthenshire	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false
+synW06000011	Swansea	true	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synW06000012	Neath Port Talbot	true	false	false	true	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	true	true	false
+synW06000013	Bridgend	true	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	true	true	false
+synW06000014	The Vale of Glamorgan	true	false	false	true	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synW06000015	Cardiff	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
+synW06000016	Rhondda Cynon Taf	true	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false	false	false	false	true	false	false
+synW06000018	Caerphilly	true	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false	false	true	false	true	true	false
+synW06000019	Blaenau Gwent	true	false	false	false	false	false	false	false	false	false	false	false	false	true	true	false	false	true	false	true	true	false
+synW06000020	Torfaen	true	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	true	false	true	true	false
+synW06000021	Monmouthshire	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	true	false	true	true	false
+synW06000022	Newport	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synW06000023	Powys	true	false	false	true	true	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false	false
+synW06000024	Merthyr Tydfil	false	false	false	false	false	false	false	false	false	false	false	false	false	false	true	false	false	false	false	false	false	false
