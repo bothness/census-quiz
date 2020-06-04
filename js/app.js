@@ -122,8 +122,6 @@ function makeQuestion(latf, topics) {
       qplaces.push(place);
     }
   }
-  console.log(qtopics);
-  console.log(qplaces);
 
   question = {
     'places': qplaces,
@@ -140,11 +138,22 @@ function makeQuestion(latf, topics) {
 function renderQuestion(question) {
   let qtext = qnumber + ". What do " + lanm[question['places'][0]] + ", " + lanm[question['places'][1]] + " and " + lanm[question['places'][2]] + " have in common?";
   let anskeys = Object.keys(question.answers);
-  let ans1 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[0] + '\')">' + qnames[anskeys[0]] + '</button></p>';
-  let ans2 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[1] + '\')">' + qnames[anskeys[1]] + '</button></p>';
-  let ans3 = '<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[2] + '\')">' + qnames[anskeys[2]] + '</button></p>';
+  let ans = [];
+  ans.push('<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[0] + '\')">' + qnames[anskeys[0]] + '</button></p>');
+  ans.push('<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[1] + '\')">' + qnames[anskeys[1]] + '</button></p>');
+  ans.push('<p><button class="btn btn-light" onclick="checkAnswer(question, \'' + anskeys[0] + '\', \'' + anskeys[2] + '\')">' + qnames[anskeys[2]] + '</button></p>');
   qdiv.innerHTML = qtext;
-  adiv.innerHTML = ans1 + ans2 + ans3;
+  let orders = [
+    [0,1,2],
+    [0,2,1],
+    [1,0,2],
+    [1,2,0],
+    [2,0,1],
+    [2,1,0]
+  ];
+  let order = orders[Math.floor(Math.random() * 6)];
+  let atext = ans[order[0]] + ans[order[1]] + ans[order[2]];
+  adiv.innerHTML = atext;
 }
 
 function checkAnswer(question, correct, response) {
